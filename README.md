@@ -1,7 +1,10 @@
 ### Hi there, I’m Dany 👋
-- I am a biologist with a PhD from the University of Porto, Portugal, where I acquired knowledge and skills on proteomics, transcriptomics, and bioinformatics approaches. I also hold a degree in biology from Havana University, Cuba, and a diploma in higher education from Universidad Central de Las Villas, Cuba.
-- 🔬I’m currently working as Research fellow at Stazione Zoologica Anton Dohrn, in the project CRIMAC DEEPVEN project aiming to characterize the diversity and activity of deep-sea Anthozoa venoms.
-- I am passionate about biodiscovery, especially in the benefits of multi-omics for biomarker and bioactive peptide discovery with a wide range of biomedical and industrial applications. I am currently involved as Founder in a personal project PagBiOMICs: Personalised Academic Guidance and Biodiscovery-integrated OMICs Solutions.
+- I am a biologist 🐞🐛🦋🐝🐬🦅🐸 with a PhD from the [University of Porto](https://sigarra.up.pt/fcup/pt/web_page.inicial), Portugal, where I acquired knowledge and skills on proteomics, transcriptomics, and bioinformatics approaches. I also hold a degree in biology from Havana University, Cuba, and a diploma in higher education from Universidad Central de Las Villas, Cuba.
+- I’m currently working as Research fellow at [Stazione Zoologica Anton Dohrn](https://szn.it/index.php/it/) 🐠, in the CRIMAC DEEPVEN project aiming to characterize the diversity and activity of deep-sea Anthozoa venoms 🪸.
+- I am passionate about biodiscovery 🔬, especially in the benefits of OMICs approaches for biomarker and bioactive peptide discovery with a wide range of biomedical and industrial applications 🦟🦑🦂🐚🐍. I have participated in several research projects such as related to bioactive peptides, biotoxins, and biomarkers involving at prestigious institutions such as [European Marine Biological Resource Centre](https://www.embrc.eu/) (EMBRC-PT), MOREBIVALVES - "Molecular strategies to be applied in the depuration of commercial bivalves for the elimination of toxic compounds", at a [CIIMAR - Interdisciplinary Centre of Marine and Environmental Research](https://www.ciimar.up.pt/).
+- 🌱 first steps as Founder in a personal project ![pagbiomics](https://github.com/danydguezperez/danydguezperez/assets/63007276/dc397164-1e47-46d2-9a2e-7986587b3fda)
+ [PagBiOMICs: Personalised Academic Guidance and Biodiscovery-integrated OMICs Solutions](https://www.pagbiomics.com/).
+
 <!--
 **danydguezperez/danydguezperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
